@@ -1,9 +1,9 @@
-### Olaa, bem vindo ao meu perfil😎👋
+### Hello, welcome to my profile😎👋
 
-- 🔭 Atualmente sou bolsista do Programa de Formação de Recursos Humanos para o Setor de Petróleo, Gás Natural e Biocombustíveis, no qual desenvolvo uma embarcação autônoma para a coleta de dados em regiões costeiras.
-- 🌱 Estudando Frontend com tecnologias: JS, CSS, HTML, NextJs & Frameworks, Backend com tecnologias: PHP, Laravel, Python, SQL, Insomnia, Postbird
-- 📚 Graduação em Engenharia de Automação em andamento na Universidade Federal do Rio Grande (FURG)
-- 📫 Contate-me via email: rebekahcaroline2002@gmail.com.
+- 🔭 I am currently a fellow of the Human Resources Training Program for the Oil, Natural Gas and Biofuels Sector, in which I am developing an autonomous vessel for data collection in coastal regions.
+- 🌱 Studying Frontend with technologies: JS, CSS, HTML, NextJs & Frameworks, Backend with technologies: PHP, Laravel, Python, SQL, Insomnia, Postbird
+- 📚 Graduation in Automation Engineering in progress at the Federal University of Rio Grande (FURG)
+- 📫 Contact me by email: rebekahcaroline2002@gmail.com.
 
 
 <div style="display: inline_block"><br>
