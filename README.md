@@ -21,11 +21,10 @@
   <img align="center" alt="Rbk-Post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Rbk-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
    
-  <img align="right" alt="Rbk-pic" height="150" style="border-radius:50px;" src="[https://cdn.picrew.me/shareImg/org/202212/338224_Du3yII1C.png](https://static.fandomspot.com/images/05/6906/04-sakura-futaba-persona-5-anime.jpg)">
+  <img align="right" alt="Rbk-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/61145169/228677994-7cce848a-a26c-4e74-bba2-7a0f32ff3b33.png">
 </div>
 
 
-                  
  ##
  
 <div> 
