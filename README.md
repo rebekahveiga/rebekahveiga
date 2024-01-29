@@ -1,8 +1,8 @@
 ### Hello, welcome to my profile😎👋
 
 - 🔭 I am currently a fellow of the Human Resources Training Program for the Oil, Natural Gas and Biofuels Sector, in which I am developing an autonomous vessel for data collection in coastal regions.
-- 🌱 Studying Frontend with technologies: JS, CSS, HTML, NextJs & Frameworks, Backend with technologies: C#, .NET, PHP, Laravel, Python, SQL, Insomnia, Postbird
-- 📚 Graduation in Automation Engineering in progress at the Federal University of Rio Grande (FURG)
+- 🌱 Studying Frontend with technologies: JS, CSS, HTML, NextJs & Frameworks, Backend with technologies: C#, .NET, PHP, Laravel, Python, SQL, Insomnia, Postbird.
+- 📚 Graduated in Automation Engineering from the Federal University of Rio Grande (FURG).
 - 📫 Contact me by email: rebekahcaroline2002@gmail.com.
 
 
