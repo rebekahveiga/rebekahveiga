@@ -1,4 +1,4 @@
-<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Sousou_no_Frieren_c++.png?raw=true" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Sousou_no_Frieren_c++.png?raw=true" alt="ilustração de um computador" min-width="350px" max-width="350px" width="400px" align="right">
 
 ### Hello, welcome to my profile 😎👋
 
